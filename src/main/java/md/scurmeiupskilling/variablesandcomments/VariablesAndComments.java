@@ -19,7 +19,5 @@ public class VariablesAndComments {
         System.out.print("An example of byte variable is: "+myByteVar);
         System.out.println(", while a short variable can be: "+myShortVar);
         System.out.println("A long type variable can be as follows: "+myLongSmallVar);
-        System.out.print("float and double variables are different. A float variable has smaller precision: " +myFloatVar);
-        System.out.println(", while a double has a higher precision: "+myDoubleVar);
     }
 }
