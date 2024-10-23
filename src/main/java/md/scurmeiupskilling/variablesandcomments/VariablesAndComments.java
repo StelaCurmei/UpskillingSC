@@ -13,8 +13,6 @@ public class VariablesAndComments {
         short myShortVar = 100;
         int myIntNegVar = -500;
         long myLongSmallVar = -9223372036854775808L;
-        float myFloatVar = 10.25789632514662f;
-        double myDoubleVar = 10.25789632514662;
         System.out.println("A negative integer variable would be: "+myIntNegVar);
         System.out.print("An example of byte variable is: "+myByteVar);
         System.out.println(", while a short variable can be: "+myShortVar);
